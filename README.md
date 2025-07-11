@@ -105,50 +105,59 @@ _Node.js, NestJS, MongoDB, Redis, Docker, AWS, bKash API, Rocket API_
 - Achieved 3× performance improvement via Docker, Redis, and multi-instance MongoDB.
 - Integrated bKash & Rocket for seamless payments; leveraged AWS Lambda, S3, EC2, RDS, SES, CloudWatch.
 - Delivered AI-powered features and implemented CI/CD pipelines.
-**Live Demo/Links:**  
-- [Android App](#)  
-- [iOS App](#)  
-- [Admin Panel](#)  
-- [Landing Page](#)  
+**Live Demo/Links:**    
+- [Teacher App](https://play.google.com/store/apps/details?id=com.smartpathshala.teacher&pcampaignid=web_share)   
+- [Head Teacher App](https://play.google.com/store/apps/details?id=com.smartpathshala.headteacher&pcampaignid=web_share)
+- [Guardian App (comming soon)]
+- [Super Admin Panel](https://admin.smartpathshalabd.com/) 
+- [School Admin Panel](https://school.smartpathshalabd.com)
+- [Landing Page](https://smartpathshalabd.com)  
 
 **Rimozen (AI-Generated Wallpaper & Motion App w/ Earning Model)**  
 _Node.js, Express.js, Stripe API, LeonardoAI_  
 - Built creative app for AI wallpapers; implemented in-app purchases with Stripe.
 - Launched on Google Play Store & Apple App Store.
 **Live Demo/Links:**  
-- [Android App](#)  
-- [iOS App](#)  
-- [Admin Panel](#)  
-- [Landing Page](#)  
+- [Android App](https://play.google.com/store/apps/details?id=com.netrosystems.rimozen&pcampaignid=web_share)  
+- [Admin Panel (private)]
 
 **KidsAI (Learning App for Kids)**  
 _Node.js, Express.js, MongoDB, OpenAI, LangChain, Vector DB, Stripe_  
 - Developed interactive learning app powered by OpenAI generative models.
 - Integrated Google OAuth, secure messaging, and subscription-based payments.
 **Live Demo/Links:**  
-- [Android App](#)  
-- [iOS App](#)  
-- [Admin Panel](#)  
-- [Landing Page](#)  
+- [Android App (undisclosed)] 
+- [iOS App (undisclosed)]  
+- [Admin Panel (undisclosed)]  
+- [Project Details](https://www.designrush.com/agency/profile/netro-systems-ltd/portfolio/software-development-jessica-t)
 
+**Kronos (Streamlining Content Marketing with AI-Powered Kronos Platform)**  
+_Node.js, Express.js, MongoDB, Scoket.io OpenAI, LangChain, Vector DB, Stripe, Docker, Grafana, Prometheus_  
+- Developed SEO frinedly, engaging and tailored contents powered by OpenAI generative models.
+- Integrated Google OAuth, secure messaging, text based pattern matching via vector db, and subscription-based payment system with stripe.
+**Live Demo/Links:**  
+- [Android App (undisclosed)] 
+- [iOS App (undisclosed)]  
+- [Admin Panel (undisclosed)]  
+- [Project Details](https://www.designrush.com/agency/profile/netro-systems-ltd/portfolio/offshore-software-development-justin-reed)
+- 
 **Atti (Social Media Application)**  
 _Node.js, Express.js, MongoDB, Socket.IO, Redis, Docker, Nginx, PM2_  
 - Built real-time chat, group messaging, notifications using WebSockets and Redis caching.
 - OAuth-based authentication; App available on Google Play Store & Apple App Store.
 **Live Demo/Links:**  
-- [Android App](#)  
-- [iOS App](#)  
-- [Admin Panel](#)  
-- [Landing Page](#)  
+- [Android App](https://play.google.com/store/apps/details?id=com.atti.atti)  
+- [iOS App](https://apps.apple.com/us/app/atti/id6661021480)  
+- [Admin Panel (private)] 
+- [Landing Page](https://atti.app)  
 
 **IMS (Inventory Management System)**  
 _Node.js, Express.js, MongoDB, Redis, Kubernetes_  
 - Designed RESTful APIs for multi-location inventory tracking.
 - Ensured ACID-compliant transactions and deployed on Kubernetes for scalability.
-**Live Demo/Links:**  
-- [Web App](#)  
-- [Admin Panel](#)  
-- [Landing Page](#)  
+**Live Demo/Links:**
+- [Store POS Panel](https://store.msosmangani.xyz)   
+- [Admin Panel](https://msosmangani.xyz)   
 
 **JadurJini (E-commerce Backend System)**  
 _TypeScript, Node.js, Express.js, MongoDB, Redis, RabbitMQ, Docker, AWS_  
@@ -163,32 +172,27 @@ _TypeScript, Node.js, Express.js, MongoDB, Redis, RabbitMQ, Docker, AWS_
 _Node.js, Express.js, MongoDB, Google APIs_  
 - Developed Islamic content & tools; integrated real-time notifications and Google OAuth.
 **Live Demo/Links:**  
-- [Android App](#)  
-- [iOS App](#)  
-- [Web App](#)  
-- [Landing Page](#)  
-- [CodeCanyon](#)  
+- [Android App](https://play.google.com/store/apps/details?id=com.netrocreative.jazakallah&pcampaignid=web_share)  
+- [CodeCanyon](https://codecanyon.net/item/jazakallah-tasbih-counter-app/44905917)  
 
 **Government Projects:**  
 *Rajshahi Public Administration Training Centre (Institute Management)*  
+- Delivered custom systems for education management optimized for high load and high availability.
+**Live Demo/Links:**
+- [Admin Panel (private)] 
+- [EMS Module (private)]
+  
 *Falaj (Rent Management System, Oman)*  
 - Delivered custom systems for education and rent management with robust data security, Google OAuth, Redis, Prometheus, Grafana.
-**Live Demo/Links:**  
-- [Web App](#)  
-- [Admin Panel](#)  
-- [Landing Page](#)  
+**Live Demo/Links:**
+- [Admin Panel (private)] 
+- [EMS Module (private)]
 
 **SuperAI (AI-Based Productivity Application)**  
 **ProChat (AI-Based Sales Management Assistant)**  
 **EdenBerry (Postpartum Management Application)**  
 **Press Release (AI-Assisted News Writer Application)**  
-- Built and deployed AI-driven, subscription-based solutions for productivity, sales, healthcare, and media.
-**Live Demo/Links:**  
-- [Web App](#)  
-- [Admin Panel](#)  
-- [Landing Page](#)  
-- [Android App](#)  
-- [iOS App](#)  
+- Built and deployed AI-driven, subscription-based solutions for productivity, sales, healthcare, and media.  
 
 ---
 
