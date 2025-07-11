@@ -100,54 +100,95 @@ Jan 2021 – Mar 2021 | Dhaka, Bangladesh
 ## Key Projects
 
 **Smart Pathshala (Scalable Education Management System)**  
-*Node.js, NestJS, MongoDB, Redis, Docker, AWS, bKash API, Rocket API*  
+_Node.js, NestJS, MongoDB, Redis, Docker, AWS, bKash API, Rocket API_  
 - Engineered backend for 100+ institutes & 10,000+ students with sub-100ms API responses.
 - Achieved 3× performance improvement via Docker, Redis, and multi-instance MongoDB.
 - Integrated bKash & Rocket for seamless payments; leveraged AWS Lambda, S3, EC2, RDS, SES, CloudWatch.
 - Delivered AI-powered features and implemented CI/CD pipelines.
+**Live Demo/Links:**  
+- [Android App](#)  
+- [iOS App](#)  
+- [Admin Panel](#)  
+- [Landing Page](#)  
 
 **Rimozen (AI-Generated Wallpaper & Motion App w/ Earning Model)**  
-*Node.js, Express.js, Stripe API, LeonardoAI*  
+_Node.js, Express.js, Stripe API, LeonardoAI_  
 - Built creative app for AI wallpapers; implemented in-app purchases with Stripe.
 - Launched on Google Play Store & Apple App Store.
+**Live Demo/Links:**  
+- [Android App](#)  
+- [iOS App](#)  
+- [Admin Panel](#)  
+- [Landing Page](#)  
 
 **KidsAI (Learning App for Kids)**  
-*Node.js, Express.js, MongoDB, OpenAI, LangChain, Vector DB, Stripe*  
+_Node.js, Express.js, MongoDB, OpenAI, LangChain, Vector DB, Stripe_  
 - Developed interactive learning app powered by OpenAI generative models.
 - Integrated Google OAuth, secure messaging, and subscription-based payments.
-- Available on Google Play Store & Apple App Store.
+**Live Demo/Links:**  
+- [Android App](#)  
+- [iOS App](#)  
+- [Admin Panel](#)  
+- [Landing Page](#)  
 
 **Atti (Social Media Application)**  
-*Node.js, Express.js, MongoDB, Socket.IO, Redis, Docker, Nginx, PM2*  
+_Node.js, Express.js, MongoDB, Socket.IO, Redis, Docker, Nginx, PM2_  
 - Built real-time chat, group messaging, notifications using WebSockets and Redis caching.
 - OAuth-based authentication; App available on Google Play Store & Apple App Store.
+**Live Demo/Links:**  
+- [Android App](#)  
+- [iOS App](#)  
+- [Admin Panel](#)  
+- [Landing Page](#)  
 
 **IMS (Inventory Management System)**  
-*Node.js, Express.js, MongoDB, Redis, Kubernetes*  
+_Node.js, Express.js, MongoDB, Redis, Kubernetes_  
 - Designed RESTful APIs for multi-location inventory tracking.
 - Ensured ACID-compliant transactions and deployed on Kubernetes for scalability.
+**Live Demo/Links:**  
+- [Web App](#)  
+- [Admin Panel](#)  
+- [Landing Page](#)  
 
 **JadurJini (E-commerce Backend System)**  
-*TypeScript, Node.js, Express.js, MongoDB, Redis, RabbitMQ, Docker, AWS*  
+_TypeScript, Node.js, Express.js, MongoDB, Redis, RabbitMQ, Docker, AWS_  
 - Supported 50,000+ concurrent users; optimized queries & reduced latency by 80%.
 - Implemented Stripe payments, OAuth, and RabbitMQ message queuing.
+**Live Demo/Links:**  
+- [Web App](#)  
+- [Admin Panel](#)  
+- [Landing Page](#)  
 
 **JazakAllah (All-in-One Islamic App)**  
-*Node.js, Express.js, MongoDB, Google APIs*  
+_Node.js, Express.js, MongoDB, Google APIs_  
 - Developed Islamic content & tools; integrated real-time notifications and Google OAuth.
-- Available on Google Play Store, Apple App Store, and CodeCanyon.
+**Live Demo/Links:**  
+- [Android App](#)  
+- [iOS App](#)  
+- [Web App](#)  
+- [Landing Page](#)  
+- [CodeCanyon](#)  
 
 **Government Projects:**  
 *Rajshahi Public Administration Training Centre (Institute Management)*  
 *Falaj (Rent Management System, Oman)*  
 - Delivered custom systems for education and rent management with robust data security, Google OAuth, Redis, Prometheus, Grafana.
-- Available on the Web.
+**Live Demo/Links:**  
+- [Web App](#)  
+- [Admin Panel](#)  
+- [Landing Page](#)  
 
 **SuperAI (AI-Based Productivity Application)**  
 **ProChat (AI-Based Sales Management Assistant)**  
 **EdenBerry (Postpartum Management Application)**  
 **Press Release (AI-Assisted News Writer Application)**  
 - Built and deployed AI-driven, subscription-based solutions for productivity, sales, healthcare, and media.
+**Live Demo/Links:**  
+- [Web App](#)  
+- [Admin Panel](#)  
+- [Landing Page](#)  
+- [Android App](#)  
+- [iOS App](#)  
 
 ---
 
@@ -158,6 +199,18 @@ Jan 2021 – Mar 2021 | Dhaka, Bangladesh
 - **banglanaki** ([npmjs.com](https://www.npmjs.com/package/banglanaki))
 - **cachekoro** ([npmjs.com](https://www.npmjs.com/package/cachekoro))
 - **prochatplugin** ([npmjs.com](https://www.npmjs.com/package/prochatplugin))
+
+## Published Web Extensions
+
+**Chrome Web Extension**  
+_ReactJS_  
+- [LinkPin](https://chromewebstore.google.com/detail/hfchehpghclhhkpdinniknekabegchhb?utm_source=item-share-cb)
+
+## Published Mobile Apps/Games
+
+**CatAsTrophe (Mobile Game)**  
+_Unity_  
+- [CatAsTrophe](https://play.google.com/store/apps/details?id=com.NADES.CatasTrophe&pcampaignid=web_share)
 
 ---
 
